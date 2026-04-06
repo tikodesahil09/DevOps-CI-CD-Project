@@ -5,7 +5,7 @@ pipeline {
 
         stage('Git Clone') {
             steps {
-                git url: 'https://github.com/tikodesahil09/DevOps-Workflow-Webpage.git', branch: 'main'
+                git url: 'https://github.com/tikodesahil09/DevOps-CI-CD-Project.git', branch: 'main'
             }
         }
 
