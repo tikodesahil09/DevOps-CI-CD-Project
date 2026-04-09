@@ -51,10 +51,13 @@ GitHub → Jenkins → Docker → Nginx → AWS EC2 → Browser
 6. Website goes live on AWS EC2
 
 ✨ Key Features
-  ⚡ Automatic deployment
-  🐳 Docker-based setup
-  ☁️ Hosted on AWS
-  🔄 Continuous integration
+-⚡ Automatic deployment
+-🐳 Docker-based setup
+-☁️ Hosted on AWS
+-🔄 Continuous integration
 
+## 📸 Screenshots
+
+![EC2-Instance](screenshots/AWS-EC2.png)
 
 
