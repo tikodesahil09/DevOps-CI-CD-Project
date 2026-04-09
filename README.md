@@ -60,24 +60,34 @@ GitHub → Jenkins → Docker → Nginx → AWS EC2 → Browser
 
 1)
 ![EC2-Instance](screenshots/AWS-EC2.png)
+---
 2)
 ![Port-ADD](screenshots/Add-Ports.png)
+---
 3)
 ![Install-Docker](screenshots/Install-Docker.png)
+---
 4)
 ![Install-Jenkins](screenshots/Install-Jenkins.png)
+---
 5)
 ![Login-Jenkins](screenshots/Setup-Jenkins.png)
+---
 6)
 ![Pipeline](screenshots/Groovy-Script.png)
+---
 7)
 ![Job-Build](screenshots/Built-Job.png)
+---
 8)
 ![Output](screenshots/Job-Output01.png)
+---
 9)
 ![Output](screenshots/Job-Output02.png)
+---
 10)
 ![Ip-Address](screenshots/EC2-Public-IP.png)
+---
 11)
 ![WebApp](screenshots/WebApplication.png)
 
