@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline for deploy WebApplication using Jenkins, Docker, Nginx on AWS EC2
+# 🚀 CI/CD Pipeline for Web Application Deployment using Jenkins, Docker, Nginx and AWS EC2
 
 ## 📌 Project Overview
 This project demonstrates a complete CI/CD pipeline to deploy a Web Application using Jenkins, Docker, and Nginx on AWS EC2.
@@ -55,6 +55,7 @@ GitHub → Jenkins → Docker → Nginx → AWS EC2 → Browser
 -🐳 Docker-based setup
 -☁️ Hosted on AWS
 -🔄 Continuous integration
+
 
 ## 📸 Screenshots
 
